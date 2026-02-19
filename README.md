@@ -50,4 +50,5 @@ Running a production-grade Kubernetes platform at home — because the best way 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jolillie&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jolillie&hide_border=true" alt="GitHub Streak" />
 </p>
