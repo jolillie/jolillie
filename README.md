@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm Jon 👋
 
-<!--
-**jolillie/jolillie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & Platform Engineering Leader — I build automation, infrastructure, and teams that ship.
 
-Here are some ideas to get you started:
+🔧 **Currently:** Senior Solutions Developer @ GDT — Kubernetes, IaC, CI/CD, cloud platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📄 [**Resume**](https://jolillie.github.io/resume/) · 🧭 [**Leadership Philosophy**](https://jolillie.github.io/leadership/) · 🛠️ [**Projects**](https://jolillie.github.io/projects/)
+
+---
+
+**What I work with:**  
+`Kubernetes` `Terraform` `ArgoCD` `Python` `AWS` `Azure` `GitHub Actions` `Ansible` `Prometheus` `Grafana`
